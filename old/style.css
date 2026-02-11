@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+  padding: 20px;
+}
+
+.feed {
+  max-width: 500px;
+  margin: auto;
+}
+
+.post {
+  background: white;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.post img {
+  width: 100%;
+  border-radius: 8px;
+}
+.date-title {
+    margin: 30px 0 15px;
+    font-size: 18px;
+    color: #333;
+}

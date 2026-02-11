@@ -24,5 +24,6 @@ $conn->close();
 ?>
 
  <div class="extra">
-      <a href="index.php"><b>Back to log in</b></a>
+      <a href="index.html"><b>Back to log in</b></a>
+
     </div>

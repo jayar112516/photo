@@ -100,8 +100,9 @@
 
 
     <div class="extra">
-      May account na? <a href="index.php">Log in</a>
+      May account na? <a href="index.html">Log in</a>
     </div>
   </div>
 </body>
 </html>
+
